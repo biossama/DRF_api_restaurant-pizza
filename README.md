@@ -8,20 +8,20 @@ This is a Django-based project that utilizes JWT authentication, API documentati
 
 ## Installation
 
-####Clone the repository:
+#### Clone the repository:
 
 
 ```bash
-git clone DRF_api_restaurant-pizza
+git clone https://github.com/biossama/DRF_api_restaurant-pizza.git
 cd DRF_api_restaurant-pizza
 ```
-####Create a virtual environment:
+#### Create a virtual environment:
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-####Install dependencies:
+#### Install dependencies:
 
 ```bash
 pip install -r requirements.txt
